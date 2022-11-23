@@ -1,5 +1,5 @@
 '''
-This program is created by ATHARVA PAWAR
+This program is created by Aman Patel
 
 Experiment No. 9 : Write a Python Program to compute following computation on matrices :
                    a)Addition of two matrices
@@ -32,4 +32,4 @@ print("The transpose of given matrix is : ")
 print(x.T)
 
 
-# Created by ATHARVA PAWAR
+# Created by Aman Patel
